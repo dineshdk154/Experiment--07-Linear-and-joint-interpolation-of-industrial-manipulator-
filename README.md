@@ -1,6 +1,6 @@
-# Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
+# Exp-07-Linear-and-joint-interpolation-of-industrial-manipulator-
 ## Name : DINESH KUMAR M
-## Date : 22-04-2024
+## Date : 15-04-2024
 ## Register Number : 212221220011
 ## Department : INFORMATION TECHONOLOGY
 ### Aim :
